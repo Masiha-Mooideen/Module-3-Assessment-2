@@ -1,0 +1,1365 @@
+html{
+    height: 100%;
+}
+
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.body-home{
+    margin-top: 15px;
+    background-image: url(images/background1.1.avif);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+/*==============HOME PAGE===============*/
+#home-logo-img{
+    width: 150px;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+#home-logo-text{
+    width: auto;
+    display: block;
+    padding: 25px;
+    margin: auto;
+    padding: 25px 10px 10px 10px;
+}
+
+/*=====HOME PAGE MENU=====*/
+.home-menu-item{
+    text-decoration: none;
+    text-transform: uppercase;
+    color:#ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid #ffffff;
+    display: block;
+    margin: auto;
+    margin-bottom: 25px;
+    width: 80%;
+}
+
+/*==============STARTERS PAGE=============*/
+.starters-list a{
+    text-decoration: none;
+}
+.starters-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.starters-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+/*======CHEESY GARLIC ROLLS=====*/
+.garlic-list a{
+    text-decoration: none;
+}
+.garlic-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.garlic-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.garlic-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.garlic-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======CHEESY JALAPENO POPPERS=====*/
+.poppers-list a{
+    text-decoration: none;
+}
+.poppers-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.poppers-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.poppers-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.poppers-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======NACHOS=====*/
+.nachos-list a{
+    text-decoration: none;
+}
+.nachos-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.nachos-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.nachos-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.nachos-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======SALAD=====*/
+.salad-list a{
+    text-decoration: none;
+}
+.salad-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.salad-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.salad-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.salad-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+
+/*==============MEALS PAGE=============*/
+.meals-list a{
+    text-decoration: none;
+}
+.meals-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.meals-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+/*======STEAK=======*/
+.steak-list a{
+    text-decoration: none;
+}
+.steak-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+.steak-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+/*======CHEDDARMELT STEAK=====*/
+.cheddar-list a{
+    text-decoration: none;
+}
+.cheddar-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.cheddar-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.cheddar-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.cheddar-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======JALAPENO STEAK=====*/
+.jalapeno-list a{
+    text-decoration: none;
+}
+.jalapeno-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.jalapeno-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.jalapeno-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.jalapeno-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======NYC STEAK=====*/
+.nyc-list a{
+    text-decoration: none;
+}
+.nyc-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.nyc-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.nyc-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.nyc-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======BURGER=======*/
+.burger-list a{
+    text-decoration: none;
+}
+.burger-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.burger-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+/*======CHEESE BURGER=====*/
+.cheeseb-list a{
+    text-decoration: none;
+}
+.cheeseb-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.cheeseb-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.cheeseb-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.cheeseb-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======VIP BURGER=====*/
+.vip-list a{
+    text-decoration: none;
+}
+.vip-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.vip-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.vip-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.vip-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======MUSHROOM SWIZZ BURGER=====*/
+.mushroom-list a{
+    text-decoration: none;
+}
+.mushroom-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.mushroom-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.mushroom-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.mushroom-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+
+/*======PIZZA=======*/
+.pizza-list a{
+    text-decoration: none;
+}
+.pizza-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.pizza-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+/*======MAGHARITA PIZZA=====*/
+.mags-list a{
+    text-decoration: none;
+}
+.mags-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.mags-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.mags-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.mags-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======STEAK GALORE PIZZA=====*/
+.steakg-list a{
+    text-decoration: none;
+}
+.steakg-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.steakg-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.steakg-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.steakg-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======CHICKENMELTPIZZA=====*/
+.chickenmelt-list a{
+    text-decoration: none;
+}
+.chickenmelt-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.chickenmelt-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.chickenmelt-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.chickenmelt-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+
+/*======TORTILLA=======*/
+.tortilla-list a{
+    text-decoration: none;
+}
+.tortilla-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.tortilla-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+/*======POTATOE CHEESE CHIC =====*/
+.potatoe-list a{
+    text-decoration: none;
+}
+.potatoe-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.potatoe-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.potatoe-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.potatoe-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======CHIC FIESTA =====*/
+.chic-list a{
+    text-decoration: none;
+}
+.chic-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.chic-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.chic-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.chic-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======STEAK FUSION  =====*/
+.fusion-list a{
+    text-decoration: none;
+}
+.fusion-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.fusion-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.fusion-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.fusion-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+
+/*==============DESERTS PAGE=============*/
+.deserts-list a{
+    text-decoration: none;
+}
+.deserts-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.deserts-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+/*======CARAMEL CHOCO LAVA CAKE =====*/
+.lava-list a{
+    text-decoration: none;
+}
+.lava-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.lava-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.lava-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.lava-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======GRANIDILLA CHEESECAKE =====*/
+.granidilla-list a{
+    text-decoration: none;
+}
+.granidilla-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.granidilla-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.granidilla-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.granidilla-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======NUTELLA FILLED DOUGHNUTS =====*/
+.donuts-list a{
+    text-decoration: none;
+}
+.donuts-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.donuts-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.donuts-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.donuts-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*====== MAMA MIAS APPLE TART =====*/
+.tart-list a{
+    text-decoration: none;
+}
+.tart-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.tart-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.tart-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.tart-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+
+/*==============DRINKS PAGE=============*/
+.drinks-list a{
+    text-decoration: none;
+}
+.drinks-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.drinks-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+/*======HOT=======*/
+.hot-list a{
+    text-decoration: none;
+}
+.hot-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.hot-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+/*====== TEA =====*/
+.tea-list a{
+    text-decoration: none;
+}
+.tea-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.tea-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.tea-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.tea-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*====== COFFEE =====*/
+.coffee-list a{
+    text-decoration: none;
+}
+.coffee-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.coffee-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.coffee-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.coffee-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*====== HOT CHOCOLATE =====*/
+.hotc-list a{
+    text-decoration: none;
+}
+.hotc-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.hotc-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.hotc-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.hotc-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======COLD=======*/
+.cold-list a{
+    text-decoration: none;
+}
+.cold-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.cold-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+/*====== COOLDRINK =====*/
+.cd-list a{
+    text-decoration: none;
+}
+.cd-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.cd-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.cd-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.cd-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*====== ICE COFFEE =====*/
+.ice-list a{
+    text-decoration: none;
+}
+.ice-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.ice-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.ice-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.ice-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======JUICE=====*/
+.juice-list a{
+    text-decoration: none;
+}
+.juice-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.juice-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.juice-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.juice-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======MOCKTAILS=======*/
+.mocktails-list a{
+    text-decoration: none;
+}
+.mocktails-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.mocktails-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+/*======PINA COLADA=====*/
+.pina-list a{
+    text-decoration: none;
+}
+.pina-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.pina-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.pina-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.pina-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======STRAWBERRY DAIQUIRI=====*/
+.strawberry-list a{
+    text-decoration: none;
+}
+.strawberry-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.strawberry-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.strawberry-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.strawberry-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*======REDBULL MOJITO=====*/
+.redbull-list a{
+    text-decoration: none;
+}
+.redbull-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+.redbull-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: #ffffff;
+    margin-top: -10px;
+    padding-left: 10px;
+    text-align: center;
+    padding-bottom:50px;
+}
+.redbull-list-item img{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    margin-left: 500px;
+    
+}
+.redbull-list-item h3{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+/*===================ORDER================*/
+.button {
+    display: block;
+    width: 80%;
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: underline;
+    border: 5px solid red;
+    margin-bottom: 25px;
+    color: red;
+    margin: 0px 0px 25px 150px;
+}
+/*======FINAL=======*/
+
+#final img{
+    width: 25%;
+    height: 15%;
+    margin-top: 100px;
+    margin-left:500px;
+}
+
+/*=================CHECKBOX================*/
+.checkbox{
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  margin: 0 -16px;
+}
+
+.col-25 {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+}
+
+.col-50 {
+  -ms-flex: 50%; /* IE10 */
+  flex: 50%;
+}
+
+.col-75 {
+  -ms-flex: 75%; /* IE10 */
+  flex: 75%;
+}
+
+.col-25,
+.col-50,
+.col-75 {
+  padding: 0 16px;
+}
+
+.container {
+  background-color: #f2f2f2;
+  padding: 5px 20px 15px 20px;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+}
+
+input[type=text] {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.icon-container {
+  margin-bottom: 20px;
+  padding: 7px 0;
+  font-size: 24px;
+}
+
+.btn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px;
+  margin: 10px 0;
+  border: none;
+  width: 100%;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 17px;
+}
+
+.btn:hover {
+  background-color: #45a049;
+}
+
+span.price {
+  float: right;
+  color: grey;
+}
+
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other (and change the direction - make the "cart" column go on top) */
+@media (max-width: 800px) {
+  .row {
+    flex-direction: column-reverse;
+  }
+  .col-25 {
+    margin-bottom: 20px;
+  }
+}
